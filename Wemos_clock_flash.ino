@@ -13,7 +13,7 @@
 
 // --- DEBUG CONFIGURATION ---
 // Set to 'true' to run the pulse pattern every TEST_MODE_INTERVAL_SEC
-const bool TEST_MODE = true; 
+const bool TEST_MODE = false; 
 // The interval (in seconds) between test patterns (30s = 30000ms)
 const unsigned long TEST_MODE_INTERVAL_SEC = 30; 
 // ---------------------------
